@@ -38,7 +38,7 @@ $(document).ready(function(){
         loop: true
     });
     var typed = new Typed(".typing-2", {
-        strings: ["22.000 + Followers","22k + Followers"],
+        strings: ["31.000 + Followers","31k + Followers"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
