@@ -38,7 +38,8 @@ $(document).ready(function(){
         loop: true
     });
     var typed = new Typed(".typing-2", {
-        strings: ["31.000 + Followers","31k + Followers"],
+        strings: ["31,000 + Followers","31k + Followers"],
+        strings: ["For Buisness colabs DM"],
         typeSpeed: 120,
         backSpeed: 80,
         loop: true
