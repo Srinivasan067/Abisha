@@ -33,14 +33,14 @@ $(document).ready(function(){
     // typing text animation script
     var typed = new Typed(".typing", {
         strings: ["Modeling","Photoshoot", "Advertisement", "Promotions", "Ad-Shoot"],
-        typeSpeed: 100,
-        backSpeed: 60,
+        typeSpeed: 120,
+        backSpeed: 80,
         loop: true
     });
     var typed = new Typed(".typing-2", {
         strings: ["31.000 + Followers","31k + Followers"],
-        typeSpeed: 100,
-        backSpeed: 60,
+        typeSpeed: 120,
+        backSpeed: 80,
         loop: true
     });
     // owl carousel script
